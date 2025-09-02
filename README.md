@@ -39,7 +39,7 @@ Beyond just the numbers, this dashboard helped me uncover some interesting thing
 
 
 ## Data Source
-The data for this dashboard comes from Kaggle. You can find the raw data files in the [Data Folder](Data) in this repo.
+The data for this dashboard comes from [Kaggle](https://www.kaggle.com/datasets/konradb/carbon-capture-and-storage). You can find the raw data files in the [Data Folder](Data) in this repo.
 
 ## How to check it out
 Since i cant host this dashboard live, you can  still get a full sense of the project by:
