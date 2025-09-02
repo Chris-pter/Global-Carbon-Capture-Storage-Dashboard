@@ -1,5 +1,9 @@
 # Global-Carbon-Capture-Storage-Dashboard
 
+<p align="center">
+  <img src="Images/Global CCS Map Dashboard.jpg" width="700"/>
+<p/>
+  
 ## Project Overview
 I put this project together to create an interactive dashboard using Power BI. My goal was to visualize and analyze carbon capture and storage (CCS) projects worldwide. It was fascinating to take raw data and turn it into something useful and easy to understand for anyone curious about global climate and energy initiatives.
 
