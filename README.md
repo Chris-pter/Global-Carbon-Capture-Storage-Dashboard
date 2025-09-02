@@ -15,7 +15,7 @@ The dashboard is bulit to make data exploration simple and intuitive. You'll fin
 * **Project Status**: A quick-look bar chart summarizing the number of projects that are Active, Terminated, on Hold, and more.
 * **Technologies Used**: A breakdown of different carbon capture processes, like Post-Combustion and Pre-Combustion.
 * **Flow of Projects**: A detailed chart that traces projects from their continents to their status and purpose, helping to tell more-indepth story.
-* **Project Details**: Simple charts that show whether projects are national or international abd what stage of development they are in.
+* **Project Details**: Simple charts that show whether projects are national or international and what stage of development they are in.
 
 ---
 <p align="center">
@@ -32,9 +32,9 @@ The dashboard is bulit to make data exploration simple and intuitive. You'll fin
 
 ## A story from the Data
 Beyond just the numbers, this dashboard helped me uncover some interesting things about carbon capture around the world:
-1. **Geographic Focus:** The data clearly shows that the majority of the carbon capture efforts are concentrated in North America andd Europe. This highlights where the most significant investment and development are currently taking place.
+1. **Geographic Focus:** The data clearly shows that the majority of the carbon capture efforts are concentrated in North America and Europe. This highlights where the most significant investment and development are currently taking place.
 2. **The "On Hold" Challenge:** While the industry looks busy and active, a good number of projects are on hold. The chart for North America and Europe also shows this clearly, which suggests some real-world problems are stopping projects from getting finished.
-3. **Technology & Location:** The dashboard also let me see how different capture technologies are spread out across the map. This helped me find out which regions are suing certain carbon management methods more than others.
+3. **Technology & Location:** The dashboard also let me see how different capture technologies are spread out across the map. This helped me find out which regions are using certain carbon management methods more than others.
 4. **The International Scope (Working Together):** A look at the project's scope shows that most of them are international, not just national. This highlights that working together across border is a key part of these projects, which makes sense for global challenge like climate change.
 
 
