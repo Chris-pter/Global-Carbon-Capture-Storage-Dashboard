@@ -51,7 +51,7 @@ Since i can't host this dashboard live, you can  still get a full sense of the p
   <summary>Click to Expand</summary>
 To explore this project yourself, just download and install Power BI Desktop.
   
-1. Clone this repository to your computer
+1. Clone this repository to your machine.
 2. Open the Carbon Capture Dashboard.pbix file in Power BI Desktop.
 
 </details>
