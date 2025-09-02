@@ -39,7 +39,7 @@ Beyond just the numbers, this dashboard helped me uncover some interesting thing
 
 
 ## Data Source
-The data for this dashboard comes from [Kaggle](https://www.kaggle.com/datasets/konradb/carbon-capture-and-storage). You can find the raw data files in the [Data Folder](Data) in this repo.
+The data for this dashboard comes from [Kaggle](https://www.kaggle.com/datasets/konradb/carbon-capture-and-storage) dataset, which was originally sourced from the National Energy Technology Laboratory's (NETL) Carbon Capture and Storage (CCS) Database. The original database tracks active, proposed, and terminated CCS projects worldwide. You can find the raw data files in the [Data Folder](Data) in this repo.
 
 ## How to check it out
 Since i can't host this dashboard live, you can  still get a full sense of the project by:
