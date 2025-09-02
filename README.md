@@ -44,7 +44,7 @@ The data for this dashboard comes from Kaggle. You can find the raw data files i
 ## How to check it out
 Since i cant host this dashboard live, you can  still get a full sense of the project by:
 1. **Viewing the Screenshot & PDF**: Theres a high-res image and a pdf of the final dashboard in the /Images folder.
-2. **Opening Project File**: If you have Power BI Desktop, you can download the .pbix file from the [Dashboard Folder](Dashboard/Global_CCS_Map_Dashboard.pbix) with the full/unfiltered dashboard.
+2. **Opening Project File**: If you have Power BI Desktop, you can download the .pbix file from the [Dashboard Folder](Dashboard) with the full/unfiltered dashboard.
 
 ## Installation 
 <details>
